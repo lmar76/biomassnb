@@ -1,3 +1,3 @@
 # biomassnb
 
-My Biomass-related notebooks.
+My Biomass notebooks.
