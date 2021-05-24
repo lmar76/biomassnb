@@ -110,6 +110,5 @@ venv.bak/
 # PyCharm
 .idea/
 
-# BIOMASS products
-*.isp
-*.dat
+# BIOMASS data
+data/
