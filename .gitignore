@@ -112,3 +112,6 @@ venv.bak/
 
 # BIOMASS data
 data/
+
+# Other
+*.xls*
