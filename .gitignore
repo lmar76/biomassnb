@@ -115,3 +115,4 @@ data/
 
 # Other
 *.xls*
+.env
